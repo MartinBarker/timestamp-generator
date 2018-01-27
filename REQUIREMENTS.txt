@@ -1,0 +1,2 @@
+Requirements
+TinyTag library, install using the command pip install tinytag
