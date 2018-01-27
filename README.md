@@ -1,5 +1,9 @@
 # timestamp-generater
 Generates track-list time-stamps for music files. 
+
+Install using:
+    pip install timestamp-generator
+
 Albums will be arranged in this format:
 
     01 Sunrise       00:00 - 05:44
@@ -14,8 +18,7 @@ Example:
 
 ![capture](https://user-images.githubusercontent.com/27025504/35469731-b10c27f2-02f0-11e8-984b-c60c841eee81.PNG)
 
-Install using:
-    pip install timestamp-generator
+
 
 Requirements:    
   TinyTag library, install using the command: "pip install tinytag"
