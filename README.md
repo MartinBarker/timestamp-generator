@@ -2,19 +2,19 @@
 Generates track-list time-stamps for music files. 
 Albums will be arranged in this format:
 
-01 Sunrise       00:00 - 05:44
+    01 Sunrise       00:00 - 05:44
 
-02 Plateau       05:44 - 10:21
+    02 Plateau       05:44 - 10:21
 
-03 Savannah      10:21 - 14:55
+    03 Savannah      10:21 - 14:55
 
-04 Canyon        14:55 - 20:26
+    04 Canyon        14:55 - 20:26
 
-05 Orange Valley 20:26 - 25:28
+    05 Orange Valley 20:26 - 25:28
 
-06 Sand-Dunes    25:28 - 28:35
+    06 Sand-Dunes    25:28 - 28:35
 
-08 Swamps        28:35 - 34:33
+    08 Swamps        28:35 - 34:33
 
 
 Example:
