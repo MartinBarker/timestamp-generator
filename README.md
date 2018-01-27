@@ -1,4 +1,6 @@
-![PyPI version](https://pypi.python.org/pypi/timestamp-generator/0.1)
+
+
+[![PyPI version](https://badge.fury.io/py/timestamp-generator.svg)](https://pypi.python.org/pypi/timestamp-generator)
 
 # timestamp-generater
 Generates track-list time-stamps for music files. 
