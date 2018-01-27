@@ -1,3 +1,5 @@
+[![PyPI version](https://pypi.python.org/pypi?%3Aaction=pkg_edit&name=timestamp-generator)](https://pypi.python.org/pypi?%3Aaction=pkg_edit&name=timestamp-generator)
+
 # timestamp-generater
 Generates track-list time-stamps for music files. 
 
