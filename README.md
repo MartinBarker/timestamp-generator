@@ -9,6 +9,10 @@ Install using:
 
     pip install timestamp-generator
 
+and run using:
+
+    python -m timestamp-generator
+
 Albums will be arranged in this format:
 
     01 Sunrise       00:00 - 05:44
@@ -26,7 +30,9 @@ Example:
 
 
 Requirements:    
-  TinyTag library, install using the command: "pip install tinytag"
+  TinyTag library, install using the command: 
+  
+      pip install tinytag
   
 This program works for all audio files that work with TinyTag (mp3, wav, flac, oog, wma, m4a ... etc )
 You choose your format, then specify the album location:
