@@ -10,8 +10,8 @@ Albums will be arranged in this format:
     06 Sand-Dunes    25:28 - 28:35
     08 Swamps        28:35 - 34:33
 
-
 Example:
+
 ![capture](https://user-images.githubusercontent.com/27025504/35469731-b10c27f2-02f0-11e8-984b-c60c841eee81.PNG)
 
 Install using:
