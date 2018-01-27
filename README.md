@@ -2,6 +2,7 @@
 Generates track-list time-stamps for music files. 
 
 Install using:
+
     pip install timestamp-generator
 
 Albums will be arranged in this format:
