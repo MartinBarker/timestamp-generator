@@ -1,4 +1,4 @@
-# timestamp-generator
+# timestamp-generater
 Generates track-list time-stamps for music files. 
 Albums will be arranged in this format:
 
